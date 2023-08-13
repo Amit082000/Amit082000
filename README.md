@@ -1,6 +1,6 @@
 ### Hi there I'm Amit 👋
-Data Science and Machine Learning Enthusiast
+Software Engineer 
 
-- 🌱 I’m currently learning Deep Learning , Cloud Computing
-- 💬 Ask me about  Python Programming, Data Science, Machine Learning
-- ⚡ Fun fact: I Love watching movies and Webseries 
+- 🌱 I’m currently learning Full Stack Development
+- 💬 Ask me about React, Node, JavaScript, ML, AI
+- ⚡ Fun fact: I Love watching anime and Webseries 
